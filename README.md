@@ -17,4 +17,7 @@
 13. Сделайте git push origin master.
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.  
 
-#Second commit
+#Second commit  
+  
+https://github.com/AlexandrNekrasov/Netology_8-01_git_02.2026/commit/efb3eab1202b19e93632afa5e7bf37bdc52d00c2
+

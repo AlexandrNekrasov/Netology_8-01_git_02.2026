@@ -55,4 +55,4 @@ https://github.com/AlexandrNekrasov/Netology_8-01_git_02.2026/commit/c3ac8092b6d
 Ссылка на граф коммитов (Network Graph):
 https://github.com/AlexandrNekrasov/Netology_8-01_git_02.2026/network
 
-![Граф коммитов в README.md](https://drive.google.com/file/d/1vqHF7jxkjPNvDSpS_TckvHvveHkKZGuj/view?usp=sharing)
+![Граф коммитов в README.md](./images/Screenshot_3.png)
